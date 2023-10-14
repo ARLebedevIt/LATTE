@@ -5,7 +5,6 @@
 # LATTE
 
 Just layout according to the Figma layout =)  
-The project was started and completed exactly one month after the beginning of my studies: August 30, 2022.   
 Made using: HTML and CSS. The site is fully responsive.  
 At the time, I was inspired by @Media queries and calc formulas. Projects like this help track progress.
 ____________________________
